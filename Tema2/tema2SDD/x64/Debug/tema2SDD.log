@@ -1,8 +1,0 @@
-﻿  main.c
-D:\Visual Studio\Projects\tema2SDD\main.c(19,40): warning C4013: 'strlen' undefined; assuming extern returning int
-D:\Visual Studio\Projects\tema2SDD\main.c(20,2): warning C4013: 'strcpy' undefined; assuming extern returning int
-D:\Visual Studio\Projects\tema2SDD\main.c(39,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Visual Studio\Projects\tema2SDD\main.c(126,67): warning C4305: 'function': truncation from 'double' to 'float'
-D:\Visual Studio\Projects\tema2SDD\main.c(127,66): warning C4305: 'function': truncation from 'double' to 'float'
-D:\Visual Studio\Projects\tema2SDD\main.c(129,65): warning C4305: 'function': truncation from 'double' to 'float'
-  tema2SDD.vcxproj -> D:\Visual Studio\Projects\tema2SDD\x64\Debug\tema2SDD.exe
