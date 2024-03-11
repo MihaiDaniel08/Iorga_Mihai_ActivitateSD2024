@@ -1,5 +1,0 @@
-﻿  sem2.c
-C:\Users\iorga\source\repos\seminarSDD2\seminarSDD2\sem2.c(15,41): warning C4013: 'strlen' undefined; assuming extern returning int
-C:\Users\iorga\source\repos\seminarSDD2\seminarSDD2\sem2.c(16,2): warning C4013: 'strcpy' undefined; assuming extern returning int
-C:\Users\iorga\source\repos\seminarSDD2\seminarSDD2\sem2.c(124,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-  seminarSDD2.vcxproj -> C:\Users\iorga\source\repos\seminarSDD2\x64\Debug\seminarSDD2.exe
