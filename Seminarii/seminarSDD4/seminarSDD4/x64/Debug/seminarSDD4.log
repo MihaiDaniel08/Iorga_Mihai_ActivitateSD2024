@@ -1,0 +1,5 @@
+﻿  seminar4.c
+D:\Visual Studio\Projects\seminarSDD4\seminar4.c(61,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\Projects\seminarSDD4\seminar4.c(157,39): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Visual Studio\Projects\seminarSDD4\seminar4.c(157,39): warning C4024: 'citireMatrice': different types for formal and actual parameter 3
+  seminarSDD4.vcxproj -> D:\Visual Studio\Projects\seminarSDD4\x64\Debug\seminarSDD4.exe
