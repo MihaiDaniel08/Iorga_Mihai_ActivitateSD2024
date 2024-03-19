@@ -1,5 +1,43 @@
 ﻿  seminar4.c
-D:\Visual Studio\Projects\seminarSDD4\seminar4.c(61,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Visual Studio\Projects\seminarSDD4\seminar4.c(157,39): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
-D:\Visual Studio\Projects\seminarSDD4\seminar4.c(157,39): warning C4024: 'citireMatrice': different types for formal and actual parameter 3
-  seminarSDD4.vcxproj -> D:\Visual Studio\Projects\seminarSDD4\x64\Debug\seminarSDD4.exe
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(21,46): error C2027: use of undefined type 'Masina'
+  D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(19,8):
+  see declaration of 'Masina'
+  
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(35,1): error C2036: 'Masina *': unknown size
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(50,17): error C2079: 'm' uses undefined struct 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(51,5): error C2224: left of '.id' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(54,5): error C2224: left of '.producator' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(55,12): error C2224: left of '.producator' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(55,3): error C2198: 'strcpy': too few arguments for call
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(58,5): error C2224: left of '.nrUsi' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(61,5): error C2224: left of '.pret' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,13): error C2224: left of '.nrUsi' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,53): error C2224: left of '.nrUsi' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,65): warning C4047: 'function': 'Masina *' differs in levels of indirection from 'int'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,65): warning C4024: 'adaugareInVector': different types for formal and actual parameter 1
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,78): error C2224: left of '.nrUsi' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(62,26): error C2198: 'adaugareInVector': too few arguments for call
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,41): error C2037: left of 'id' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,59): error C2037: left of 'producator' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,85): error C2037: left of 'nrUsi' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,106): error C2037: left of 'pret' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,11): warning C4473: 'printf' : not enough arguments passed for format string
+  D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,11):
+  placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(74,11):
+  the missing variadic argument 1 is required by format string '%i'
+  
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(96,39): error C2037: left of 'pret' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(106,89): error C2079: 'cautareMasinaID' uses undefined struct 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(111,18): error C2037: left of 'id' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(116,16): error C2079: 'm' uses undefined struct 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(117,4): error C2224: left of '.id' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(118,4): error C2224: left of '.producator' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(119,4): error C2224: left of '.nrUsi' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(120,4): error C2224: left of '.pret' must have struct/union type
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(121,2): error C2440: 'return': cannot convert from 'int' to 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(122,1): error C2036: 'Masina *': unknown size
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(132,22): error C2037: left of 'producator' specifies undefined struct/union 'Masina'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(132,4): error C2198: 'free': too few arguments for call
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(156,39): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD4\seminar4.c(156,39): warning C4024: 'citireMatrice': different types for formal and actual parameter 3

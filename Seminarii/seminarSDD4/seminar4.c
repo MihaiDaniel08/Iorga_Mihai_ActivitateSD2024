@@ -5,7 +5,7 @@
 #include < stdlib.h>
 
 
-struct Masina {
+struct Maisna {
 
 	int id;
 	char* producator;

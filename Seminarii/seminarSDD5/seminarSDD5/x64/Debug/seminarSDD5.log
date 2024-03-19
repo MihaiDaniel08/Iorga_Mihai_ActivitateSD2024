@@ -1,0 +1,4 @@
+﻿  seminar5.c
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD5\seminar5.c(33,53): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD5\seminar5.c(34,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  seminarSDD5.vcxproj -> D:\Visual Studio\Projects\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD5\x64\Debug\seminarSDD5.exe
