@@ -1,0 +1,3 @@
+﻿  seminar3.c
+C:\Users\iorga\source\repos\MihaiDaniel08\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD3\seminar3.c(59,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  seminarSDD3.vcxproj -> C:\Users\iorga\Source\Repos\MihaiDaniel08\Iorga_Mihai_ActivitateSD2024\Seminarii\seminarSDD3\x64\Debug\seminarSDD3.exe

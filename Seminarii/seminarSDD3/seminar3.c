@@ -43,13 +43,12 @@ struct Masina* citireFisier(const char* numef, int* nrMasini) {
 
 	while (fgets(buffer, 100, file) != NULL)
 	{
+		struct Masina m;
 		char delimitator[] = ",\n";
 		char* element = strtok(buffer, delimitator);
-
-		struct Masina m;
 		m.id = atoi(element);
-		element = strtok(NULL, delimitator);
 
+		element = strtok(NULL, delimitator);
 		m.producator = malloc(strlen(element) + 1);
 		strcpy(m.producator, element);
 
